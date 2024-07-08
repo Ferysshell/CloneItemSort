@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ItemSort3D.sln"
+    "dotnet.defaultSolution": "CloneItemSort.sln"
 }

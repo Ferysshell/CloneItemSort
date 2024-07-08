@@ -4594,7 +4594,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2106161566}
   - component: {fileID: 2106161565}
-  - component: {fileID: 2106161567}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -4679,18 +4678,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!114 &2106161567
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2106161564}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &2198052796281486578
 PrefabInstance:
   m_ObjectHideFlags: 0
