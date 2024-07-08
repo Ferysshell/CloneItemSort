@@ -90,6 +90,7 @@
     <Compile Include="Assets\Scripts\Game\UI\GameOverMenu.cs" />
     <Compile Include="Assets\Scripts\SDK\AdsInitializer.cs" />
     <Compile Include="Assets\Scripts\Game\UI\GameTimer.cs" />
+    <Compile Include="Assets\NewBehaviourScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Firebase\Plugins\iOS\Firebase.Messaging.dll" />
