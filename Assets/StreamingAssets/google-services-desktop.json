@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674939845583",
+    "project_id": "itemsort-dbd72",
+    "storage_bucket": "itemsort-dbd72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674939845583:android:f181b1e9ac2c1dd5e330ba",
+        "android_client_info": {
+          "package_name": "com.sortifruitsgame.puzzlefruits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyIT44rHgXMahzh158mh2lmraaocYqqeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674939845583:android:54c9dcc0619d0ce0e330ba",
+        "android_client_info": {
+          "package_name": "com.testcompan.mygame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyIT44rHgXMahzh158mh2lmraaocYqqeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
